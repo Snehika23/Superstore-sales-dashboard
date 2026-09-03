@@ -94,7 +94,7 @@ DAX	Calculated measures and KPIs in Power BI
 |---|---|
 | [SuperStore_Sales_DataSet.csv](SuperStore_Sales_DataSet.csv) | Raw transactional sales data (2019–2020) |
 | [Sales Overview](Sales_Dashboard.png)
-| [Sales Forecast] (Sales_Forecast.png) | Power BI dashboard images|
+| [Sales Forecast](Sales_Forecast.png) | Power BI dashboard images|
 | [README.md](README.md) | Project documentation |
 💡 Business Recommendations
 
@@ -112,4 +112,7 @@ Snehika | Aspiring Data Analyst
 
 This project is part of my data analytics portfolio, demonstrating skills in data cleaning, exploratory analysis, business insight generation, time series forecasting, and interactive dashboard design.
 
-📫 Open to Data Analyst opportunities — feel free to connect! 🔗 LinkedIn 📧 youremail@gmail.com
+📫 Open to Data Analyst opportunities — feel free to connect! 
+## 📫 Let's connect
+- 🔗 [LinkedIn](www.linkedin.com/in/snehika-amudalapalli)
+- 📧 [youremail@gmail.com](mailto:snehikaamudalapalli2002@gmail.com)
