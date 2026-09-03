@@ -1,4 +1,5 @@
 # Superstore-sales-dashboard
+
 ![Sales Overview](Sales_Dashboard.png)
 ![Sales Forecast](Sales_Forecast.png)
 
@@ -96,6 +97,7 @@ DAX	Calculated measures and KPIs in Power BI
 | [Sales Overview](Sales_Dashboard.png)
 | [Sales Forecast](Sales_Forecast.png) | Power BI dashboard images|
 | [README.md](README.md) | Project documentation |
+
 💡 Business Recommendations
 
 Based on the analysis:
@@ -115,4 +117,4 @@ This project is part of my data analytics portfolio, demonstrating skills in dat
 📫 Open to Data Analyst opportunities — feel free to connect! 
 ## 📫 Let's connect
 - 🔗 [LinkedIn](www.linkedin.com/in/snehika-amudalapalli)
-- 📧 [youremail@gmail.com](mailto:snehikaamudalapalli2002@gmail.com)
+- 📧 [Mailto](mailto:snehikaamudalapalli2002@gmail.com)
