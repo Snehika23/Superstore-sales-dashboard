@@ -94,7 +94,7 @@ DAX	Calculated measures and KPIs in Power BI
 | File | Description |
 |---|---|
 | [SuperStore_Sales_DataSet.csv](SuperStore_Sales_DataSet.csv) | Raw transactional sales data (2019–2020) |
-| [Sales Overview](Sales_Dashboard.png)
+| [Sales Overview](Sales_Dashboard.png) | Power BI dashboard images|
 | [Sales Forecast](Sales_Forecast.png) | Power BI dashboard images|
 | [README.md](README.md) | Project documentation |
 
