@@ -116,5 +116,5 @@ This project is part of my data analytics portfolio, demonstrating skills in dat
 
 📫 Open to Data Analyst opportunities — feel free to connect! 
 ## 📫 Let's connect
-- 🔗 [LinkedIn](www.linkedin.com/in/snehika-amudalapalli)
-- 📧 [Mailto](mailto:snehikaamudalapalli2002@gmail.com)
+- 🔗- LinkedIn: www.linkedin.com/in/snehika-amudalapalli
+- 📧 Email: snehikaamudalapalli2002@gmail.com
